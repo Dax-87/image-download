@@ -2,7 +2,7 @@
 header("Content-type: image/jpeg");
 header('Content-Description: File Transfer');
 header('Content-Type: application/octet-stream');
-header('Content-Disposition: attachment; filename=tilllate-world.jpg'); 
+header('Content-Disposition: attachment; filename=insert-name-file.jpg'); 
 header('Content-Transfer-Encoding: binary');
 header('Connection: Keep-Alive');
 header('Expires: 0');
