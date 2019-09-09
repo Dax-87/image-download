@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: Image Download for Tilllate
-Plugin URI: http://tilllate.world
-Description: Image download plugin
+Plugin Name: Image Download for Wordpress
+Plugin URI: https://www.danielecannavacciuolo.it/project
+Description: Image Download Plugin
 Version: 1.0
-Author: Daniele Cannavacciuolo
-Author URI: http://www.danielecannavacciuolo.it
+Author: Daniele Cannavacciuolo, Stefano Amorelli
+Author URI: https://www.danielecannavacciuolo.it
 */
 
 function can_image_download() {
