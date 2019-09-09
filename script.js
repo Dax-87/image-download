@@ -1,4 +1,3 @@
-
 (function($) {
 
 	$('.download-btn a').each(function(){
